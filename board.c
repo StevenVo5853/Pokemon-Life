@@ -1,11 +1,5 @@
-/**
- * Assignment: life
- * Name : Steven Vo
- * PID: A15554478
- * Class: UCSD CSE30-sp20
- *
- */
-#include "cse30life.h"
+
+#include "cselife.h"
 #include "board.h"
 
 
