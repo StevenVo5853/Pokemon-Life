@@ -1,6 +1,3 @@
-//! cse30sp20
-//! cse30life functions
-//! functions to support life!
 
 #include <string.h>
 #include <stdio.h>
