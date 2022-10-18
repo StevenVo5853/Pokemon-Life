@@ -1,12 +1,4 @@
-/**
- * Assignment: life
- * Name : TODO
- * PID : TODO
- * Class: UCSD CSE30-sp20
- *
- */
-
-#include "cse30life.h"
+#include "cselife.h"
 #include "board.h"
 #include "sim.h"
 #include "assert.h"
