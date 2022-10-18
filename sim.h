@@ -1,10 +1,3 @@
-/**
- * Assignment: life
- * Name: TODO
- * PID: TODO
- * Class: UCSD CSE30-sp20
- *
- */
 #ifndef _SIM_H
 #define _SIM_H
 #include "board.h"
