@@ -1,10 +1,3 @@
-/**
- * Assignment: life
- * Name: Steven Vo
- * PID: A15554478
- * Class: UCSD CSE30-sp20
- *
- */
 #include "sim.h"
 
 #define CIMP
@@ -27,6 +20,7 @@ static void doRow(belem *dest, belem *srcStart, belem * srcEnd, uint32_t cols){
 		belem downRight = *(srcStart + cols + 1);
 		belem downLeft = *(srcStart + cols - 1);
 
+		//Neighbor checks to change life state of current cell
 		if (upCell == 1) {
 			neighbor++;
 		}
